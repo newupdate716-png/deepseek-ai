@@ -49,7 +49,7 @@ def home():
         },
         "Response_Format": {
             "Message": "User input",
-            "Response": "Abbas AI reply",
+            "Response": "SB-SAKIB AI reply",
             "Status": "success | error"
         }
     })
